@@ -1,0 +1,17 @@
+name: ip_geolocation_api_pk
+description: A new Flutter package project.
+version: 0.0.1
+homepage: https://webdecero.com
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  http: ^0.13.4
+  meta: ^1.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
